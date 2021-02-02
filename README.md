@@ -1,0 +1,1 @@
+chrome extension template, for extensions that run always in the background
